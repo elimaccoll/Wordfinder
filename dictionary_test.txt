@@ -1,0 +1,10 @@
+a
+test
+banana
+apple
+train
+car
+phone
+outlet
+fox
+dog
